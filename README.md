@@ -3,7 +3,7 @@
 <h3> Algorithms and design patterns and their implementation in Python </h3>
 
 - [x] Bridge 
-- [ ] Builder
+- [x] Builder
 - [ ] Factory
 - [ ] Singleton
 - [ ] Prototype
