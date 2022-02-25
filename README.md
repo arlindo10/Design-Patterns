@@ -16,7 +16,7 @@
 
 * Os **padrões comportamentais** cuidam da comunicação eficiente e da assinalação de responsabilidades entre objetos.
 
-<h3> Padrões de projeto e sua implementação em Python</h3>
+<h1> Padrões de projeto e sua implementação em Python</h1>
 
 - [x] Bridge 
 - [x] Builder
