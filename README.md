@@ -18,10 +18,10 @@
 
 <h1> Padrões de projeto e sua implementação em Python</h1>
 
-- [x] Bridge </br>
+- [x] Bridge 
   [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Bridge)
 
-- [x] Builder </br>
+- [x] Builder 
 
   [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Builder)
 
@@ -29,16 +29,30 @@
 
   [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Factory)
 
-- [ ] Singleton
+- [x] Singleton
+
+  [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Factory)
+
 - [ ] Prototype
+
 - [ ] Object Pool
+
 - [ ] Adapter
+
 - [ ] Composite
+
 - [ ] Decorator
+
 - [ ] Façade
+
 - [ ] Flyweight
+
 - [ ] Proxy
+
 - [ ] Chain of Responsibility
+
 - [ ] Command
+
 - [ ] Iterator
+
 - [ ] Mediator
