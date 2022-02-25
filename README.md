@@ -18,18 +18,18 @@
 
 <h1> Padrões de projeto e sua implementação em Python</h1>
 
-- [x] Bridge 
+- [x] Bridge </br>
   [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Bridge)
 
-- [x] Builder 
+- [x] Builder </br>
 
   [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Builder)
 
-- [x] Factory
+- [x] Factory </br>
 
   [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Factory)
 
-- [x] Singleton
+- [x] Singleton </br>
 
   [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Factory)
 
