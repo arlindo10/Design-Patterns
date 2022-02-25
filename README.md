@@ -18,8 +18,10 @@
 
 <h1> Padrões de projeto e sua implementação em Python</h1>
 
-- [x] Bridge 
-- [x] Builder
+- [x] Bridge </br>
+[Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Bridge)
+- [x] Builder </br>
+[Implementação do padrão]()
 - [ ] Factory
 - [ ] Singleton
 - [ ] Prototype
