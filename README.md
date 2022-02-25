@@ -9,7 +9,7 @@
 <p>Uma analogia a um algoritmo é que ele seria uma receita de comida: ambos têm etapas claras para chegar a um objetivo. Por outro lado, um padrão é mais como uma planta de obras: você pode ver o resultado e suas funcionalidades, mas a ordem exata de implementação depende de você.</p>
 
 <h2>Classificação dos padrões (Propósito)</h2>
-  
+
 * Os **padrões criacionais** fornecem mecanismos de criação de objetos que aumentam a flexibilidade e a reutilização de código.</ol>
 
 * Os **padrões estruturais** explicam como montar objetos e classes em estruturas maiores, enquanto ainda mantém as estruturas flexíveis e eficientes.
@@ -19,10 +19,16 @@
 <h1> Padrões de projeto e sua implementação em Python</h1>
 
 - [x] Bridge </br>
-[Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Bridge)
+  [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Bridge)
+
 - [x] Builder </br>
-[Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Builder)
-- [ ] Factory
+
+  [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Builder)
+
+- [x] Factory
+
+  [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Factory)
+
 - [ ] Singleton
 - [ ] Prototype
 - [ ] Object Pool
