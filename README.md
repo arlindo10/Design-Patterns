@@ -12,9 +12,9 @@
   
 * Os **padrões criacionais** fornecem mecanismos de criação de objetos que aumentam a flexibilidade e a reutilização de código.</ol>
 
-8 Os **padrões estruturais** explicam como montar objetos e classes em estruturas maiores, enquanto ainda mantém as estruturas flexíveis e eficientes.
+* Os **padrões estruturais** explicam como montar objetos e classes em estruturas maiores, enquanto ainda mantém as estruturas flexíveis e eficientes.
 
-8 Os **padrões comportamentais** cuidam da comunicação eficiente e da assinalação de responsabilidades entre objetos.
+* Os **padrões comportamentais** cuidam da comunicação eficiente e da assinalação de responsabilidades entre objetos.
 
 <h3> Padrões de projeto e sua implementação em Python</h3>
 
