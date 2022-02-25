@@ -1,6 +1,6 @@
 <h1> Design-Patterns </h1>
   
-<h3> Algorithms and design patterns and their implementation in Python </h3>
+<h3> Padrões de projeto e sua implementação em Python</h3>
 
 - [x] Bridge 
 - [x] Builder
