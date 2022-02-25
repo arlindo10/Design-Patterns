@@ -21,7 +21,7 @@
 - [x] Bridge </br>
 [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Bridge)
 - [x] Builder </br>
-[Implementação do padrão]()
+[Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Builder)
 - [ ] Factory
 - [ ] Singleton
 - [ ] Prototype
