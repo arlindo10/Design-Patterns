@@ -20,11 +20,11 @@
 
 - [x] Bridge </br>
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Bridge) 
-- [x] Builder </br>
+- [x] Builder 
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Builder)
-- [x] Factory </br>
+- [x] Factory 
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Factory)
-- [x] Singleton </br>
+- [x] Singleton 
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Factory)
 - [x] Prototype
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Prototype)
@@ -40,3 +40,11 @@
 - [ ] Command
 - [ ] Iterator
 - [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ]  Private Class Data
+- [ ] State
+- [ ]  Strategy
+- [ ] Template Method
+- [ ] Visitor
+- [ ] Interpreter
