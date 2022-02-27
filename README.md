@@ -24,10 +24,10 @@
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Builder)
 - [x] Factory </br>
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Factory)
-
 - [x] Singleton </br>
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Factory)
-- [ ] Prototype
+- [x] Prototype
+  - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Prototype)
 - [ ] Object Pool
 - [ ] Adapter
 - [ ] Composite
