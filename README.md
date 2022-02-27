@@ -28,7 +28,8 @@
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Factory)
 - [x] Prototype
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Prototype)
-- [ ] Object Pool
+- [x] Object Pool
+  - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Object%20Pool)
 - [ ] Adapter
 - [ ] Composite
 - [ ] Decorator
