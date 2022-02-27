@@ -31,6 +31,7 @@
 - [x] Object Pool
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Object%20Pool)
 - [ ] Adapter
+  - [Implementação do padrão]()
 - [ ] Composite
 - [ ] Decorator
 - [ ] Façade
