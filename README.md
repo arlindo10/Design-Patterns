@@ -20,32 +20,89 @@
 
 - [x] Bridge </br>
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Bridge) 
+  
 - [x] Builder 
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Builder)
+  
 - [x] Factory 
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Factory)
+  
 - [x] Singleton 
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Factory)
+  
 - [x] Prototype
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Prototype)
+  
 - [x] Object Pool
   - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Object%20Pool)
-- [ ] Adapter
-  - [Implementação do padrão]()
-- [ ] Composite
+  
+- [x] Adapter
+  - [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Adapter)
+  
+- [x] Composite
+
+  [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Composite)
+
 - [ ] Decorator
+
+  [Implementação do padrão]()
+
 - [ ] Façade
+
+  [Implementação do padrão]()
+
 - [ ] Flyweight
+
+  [Implementação do padrão]()
+
 - [ ] Proxy
+
+  [Implementação do padrão]()
+
 - [ ] Chain of Responsibility
+
+  [Implementação do padrão]()
+
 - [ ] Command
+
+  [Implementação do padrão]()
+
 - [ ] Iterator
+
+  [Implementação do padrão]()
+
 - [ ] Mediator
+
+  [Implementação do padrão]()
+
 - [ ] Memento
+
+  [Implementação do padrão]()
+
 - [ ] Observer
-- [ ]  Private Class Data
+
+  [Implementação do padrão]()
+
+- [ ] Private Class Data
+
+  [Implementação do padrão]()
+
 - [ ] State
-- [ ]  Strategy
+
+  [Implementação do padrão]()
+
+- [ ] Strategy
+
+  [Implementação do padrão]()
+
 - [ ] Template Method
+
+  [Implementação do padrão]()
+
 - [ ] Visitor
+
+  [Implementação do padrão]()
+
 - [ ] Interpreter
+
+  [Implementação do padrão]()
