@@ -43,13 +43,13 @@
 
   [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Composite)
 
-- [ ] Decorator
+- [x] Decorator
 
-  [Implementação do padrão]()
+  [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Decorator)
 
-- [ ] Façade
+- [x] Façade
 
-  [Implementação do padrão]()
+  [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Facade)
 
 - [ ] Flyweight
 
