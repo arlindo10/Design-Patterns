@@ -55,9 +55,9 @@
 
   [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Flyweight)
 
-- [ ] Proxy
+- [x] Proxy
 
-  [Implementação do padrão]()
+  [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Proxy)
 
 - [ ] Chain of Responsibility
 
