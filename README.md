@@ -59,9 +59,9 @@
 
   [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Proxy)
 
-- [ ] Chain of Responsibility
+- [x] Chain of Responsibility
 
-  [Implementação do padrão]()
+  [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Chain%20of%20Responsibility)
 
 - [ ] Command
 
