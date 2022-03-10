@@ -63,7 +63,7 @@
 
   [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Chain%20of%20Responsibility)
 
-- [x] Command
+- [] Command
 
   [Implementação do padrão]()
 
