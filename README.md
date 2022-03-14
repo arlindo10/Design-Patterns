@@ -67,7 +67,7 @@
 
   [Implementação do padrão]()
 
-- [ ] Iterator
+- [x] Iterator
 
   [Implementação do padrão]()
 
