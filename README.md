@@ -69,7 +69,7 @@
 
 - [x] Iterator
 
-  [Implementação do padrão]()
+  [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Iterator)
 
 - [ ] Mediator
 
