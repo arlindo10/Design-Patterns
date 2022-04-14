@@ -73,7 +73,7 @@
 
 - [x] Mediator
 
-  [Implementação do padrão]()
+  [Implementação do padrão](https://github.com/arlindo10/Design-Patterns/tree/main/Mediator)
 
 - [ ] Memento
 
